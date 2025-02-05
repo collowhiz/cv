@@ -1,0 +1,64 @@
+body{
+  background-color: #EAF6F6;
+    }
+
+h1:hover{
+  color : gold;
+}
+
+h1{
+  color : #66BFBF;
+}
+
+h3{
+  color : #66BFBF;
+}
+h3:hover{
+  color : brown;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color:grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+img{
+  height: 200px;
+}
+
+.home-btn{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #11cdd4;
+}
+.contact-btn{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #11cdd4;
+
+}
+.MyPortfolio{
+  color: #11cdd4;
+
+
+}
+.MyLinkedIn{
+  color: #11cdd4;
+
+}
+.MyGitHub{
+  color: #11cdd4;
+
+}
+
+.Coursera{
+  color: #11cdd4;
+
+}
+.ContactMe{
+  color: #11cdd4;
+}
